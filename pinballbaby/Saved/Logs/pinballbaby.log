@@ -5084,3 +5084,6 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.03.27-00.50.19:869][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7642.311035, Update Interval: 315.231171
 [2026.03.27-00.50.26:854][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_flipper.bp_flipper
 [2026.03.27-00.50.26:855][798]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.27-00.51.47:245][346]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/BuildingWorlds/LevelEditor/MapErrors?utm_source=editor&utm_medium=docs&utm_campaign=msg_log#worldpartition_worldreferencespatiallyloadedactor_checkforerrors
+[2026.03.27-00.51.57:533][410]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-00.51.57:584][410]LogSlate: Window 'Message Log' being destroyed
