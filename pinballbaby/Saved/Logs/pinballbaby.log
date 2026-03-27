@@ -3973,3 +3973,305 @@ Make sure '/Game/sisis_pinball_machine.sisis_pinball_machine_C' has been compile
 [2026.03.27-03.15.35:233][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4184.617188
 [2026.03.27-03.15.35:384][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.27-03.15.35:384][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4184.751465, Update Interval: 358.439880
+[2026.03.27-03.16.43:845][814]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.16.43:851][814]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-03.16.43:851][814]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.16.43:852][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.16.43:852][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.16.43:852][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.16.43:852][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.16.43:852][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.16.43:853][814]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 2.009 ms (total: 65.451 ms)
+[2026.03.27-03.16.43:853][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.16.43:855][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.16.43:874][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-03.16.43:879][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.129 ms (total: 134.463 ms)
+[2026.03.27-03.16.43:879][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024361s)
+[2026.03.27-03.16.43:879][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.024405s)
+[2026.03.27-03.16.43:913][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.27-03.16.43:916][814]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.16.43:918][814]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.16.43:918][814]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.16.43:918][814]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-03.16.43:918][814]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.16.43:925][814]LogWorldPartition: Display: WorldPartition initialize took 7.391 ms (total: 663.624 ms)
+[2026.03.27-03.16.43:925][814]LogPlayLevel: PIE: World Init took: (0.009462s)
+[2026.03.27-03.16.43:926][814]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.16.43:926][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.16.43:926][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.16.43:926][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.16.43:926][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.16.43:926][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.16.43:929][814]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.16.43:950][814]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.16.43:950][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.16.43:950][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.16.43:950][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.16.43:950][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.03.27-03.16.43:950][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.03.27-03.16.43:953][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.03.27-03.16.43:953][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.03.27-03.16.43:953][814]LogInit: FAudioDevice initialized with ID 26.
+[2026.03.27-03.16.43:953][814]LogAudio: Display: Audio Device (ID: 26) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.16.43:954][814]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.27-03.16.43:959][814]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-03.16.43:961][814]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.16.43
+[2026.03.27-03.16.43:962][814]LogWorld: Bringing up level for play took: 0.002021
+[2026.03.27-03.16.43:964][814]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.03.27-03.16.43:966][814]LogStreaming: Display: FlushAsyncLoading(974,975,976,973,972): 5 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.16.43:977][814]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.16.43:977][814]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.16.43:979][814]PIE: Server logged in
+[2026.03.27-03.16.43:981][814]PIE: Play in editor total start time 0.13 seconds.
+[2026.03.27-03.16.55:944][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.16.55:944][504]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.16.55:946][504]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.16.55:946][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.16.55:947][504]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.16.55:950][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.16.55:957][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.16.55:999][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.16.56:000][504]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.27-03.16.56:000][504]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.03.27-03.16.56:003][504]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.03.27-03.16.56:012][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.27-03.16.56:080][505]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.03.27-03.17.02:751][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.17.02:900][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.27-03.17.02:926][879]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.17.02:926][879]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine72BFE91541F63E87A13121AA5B00DCEB.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.17.02:934][879]LogFileHelpers: All files are already saved.
+[2026.03.27-03.17.02:935][879]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.092
+[2026.03.27-03.17.02:953][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.455 ms (total: 3.60 sec)
+[2026.03.27-03.17.03:029][879]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.17.03:029][879]LogContentValidation: Enabled validators:
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.17.03:029][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.17.03:029][879]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.17.03:574][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.27-03.17.04:162][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.17.04:273][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.27-03.17.04:297][936]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.17.04:297][936]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine61C03DD04D760DF7A52E49B4128EAD3A.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.17.04:304][936]LogFileHelpers: All files are already saved.
+[2026.03.27-03.17.04:305][936]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.076
+[2026.03.27-03.17.04:322][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.297 ms (total: 3.76 sec)
+[2026.03.27-03.17.04:408][936]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.17.04:409][936]LogContentValidation: Enabled validators:
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.17.04:409][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.17.04:409][936]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.17.05:892][ 21]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.17.05:899][ 21]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-03.17.05:899][ 21]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.17.05:901][ 21]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.17.05:901][ 21]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.17.05:901][ 21]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.17.05:901][ 21]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.17.05:901][ 21]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.17.05:902][ 21]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 1.912 ms (total: 67.364 ms)
+[2026.03.27-03.17.05:902][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.17.05:942][ 21]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.17.05:966][ 21]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-03.17.05:972][ 21]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.347 ms (total: 139.811 ms)
+[2026.03.27-03.17.05:972][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029544s)
+[2026.03.27-03.17.05:972][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.029685s)
+[2026.03.27-03.17.05:997][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.27-03.17.05:999][ 21]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.17.06:000][ 21]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.17.06:000][ 21]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.17.06:000][ 21]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-03.17.06:000][ 21]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.17.06:007][ 21]LogWorldPartition: Display: WorldPartition initialize took 7.058 ms (total: 670.682 ms)
+[2026.03.27-03.17.06:007][ 21]LogPlayLevel: PIE: World Init took: (0.008839s)
+[2026.03.27-03.17.06:008][ 21]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.17.06:008][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.17.06:008][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.17.06:008][ 21]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.17.06:008][ 21]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.17.06:008][ 21]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.17.06:011][ 21]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.03.27-03.17.06:030][ 21]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.03.27-03.17.06:033][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.03.27-03.17.06:033][ 21]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.03.27-03.17.06:033][ 21]LogInit: FAudioDevice initialized with ID 27.
+[2026.03.27-03.17.06:033][ 21]LogAudio: Display: Audio Device (ID: 27) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.17.06:033][ 21]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.27-03.17.06:038][ 21]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-03.17.06:040][ 21]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.17.06
+[2026.03.27-03.17.06:040][ 21]LogWorld: Bringing up level for play took: 0.002142
+[2026.03.27-03.17.06:043][ 21]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.03.27-03.17.06:044][ 21]LogStreaming: Display: FlushAsyncLoading(979,980,981,978,977): 5 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.17.06:057][ 21]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.17.06:057][ 21]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.17.06:058][ 21]PIE: Server logged in
+[2026.03.27-03.17.06:060][ 21]PIE: Play in editor total start time 0.161 seconds.
+[2026.03.27-03.17.31:662][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.17.31:662][550]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.17.31:663][550]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.17.31:663][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.17.31:663][550]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.17.31:665][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.17.31:668][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.17.31:699][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.17.31:699][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.27-03.17.31:699][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.03.27-03.17.31:702][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.03.27-03.17.31:709][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.27-03.17.31:748][551]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.03.27-03.18.45:457][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.27-03.19.20:871][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.27-03.19.21:549][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.19.21:631][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_pinballhud] ([2] browsable assets)...
+[2026.03.27-03.19.21:635][658]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_pinballhud.wbp_pinballhud]
+[2026.03.27-03.19.21:635][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_pinballhud]
+[2026.03.27-03.19.21:635][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_pinballhud" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset" SILENT=true
+[2026.03.27-03.19.21:649][658]LogSavePackage: Moving output files for package: /Game/wbp_pinballhud
+[2026.03.27-03.19.21:649][658]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_pinballhud2D5537124F88B9D92EB1AF92D31F70F3.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset'
+[2026.03.27-03.19.21:665][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.085 ms (total: 3.88 sec)
+[2026.03.27-03.19.21:745][658]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.19.21:745][658]LogContentValidation: Enabled validators:
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.19.21:745][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.19.21:746][658]AssetCheck: /Game/wbp_pinballhud Validating asset
+[2026.03.27-03.22.20:583][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4589.950195
+[2026.03.27-03.22.20:716][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.22.20:716][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4590.066406, Update Interval: 318.175598
+[2026.03.27-03.24.49:452][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.27-03.24.50:220][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.24.50:347][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.27-03.24.50:372][697]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.24.50:374][697]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machineFA44EABA40206AA91687A499F7D1B562.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.24.50:380][697]LogFileHelpers: All files are already saved.
+[2026.03.27-03.24.50:381][697]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.079
+[2026.03.27-03.24.50:397][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.557 ms (total: 4.05 sec)
+[2026.03.27-03.24.50:472][697]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.24.50:472][697]LogContentValidation: Enabled validators:
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.24.50:472][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.24.50:472][697]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.24.52:486][814]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.24.52:492][814]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-03.24.52:492][814]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.24.52:494][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.24.52:494][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.24.52:494][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.24.52:494][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.24.52:494][814]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.24.52:494][814]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 1.925 ms (total: 69.290 ms)
+[2026.03.27-03.24.52:495][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.24.52:495][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.24.52:514][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-03.24.52:519][814]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.006 ms (total: 144.817 ms)
+[2026.03.27-03.24.52:519][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024394s)
+[2026.03.27-03.24.52:519][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.024432s)
+[2026.03.27-03.24.52:544][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.27-03.24.52:544][814]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.24.52:546][814]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.24.52:546][814]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.24.52:546][814]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-03.24.52:546][814]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.24.52:554][814]LogWorldPartition: Display: WorldPartition initialize took 7.131 ms (total: 677.814 ms)
+[2026.03.27-03.24.52:554][814]LogPlayLevel: PIE: World Init took: (0.009150s)
+[2026.03.27-03.24.52:555][814]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.24.52:555][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.24.52:555][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.24.52:555][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.24.52:555][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.24.52:555][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.24.52:557][814]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.24.52:579][814]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.24.52:579][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.24.52:579][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.24.52:579][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.24.52:580][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.03.27-03.24.52:580][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.03.27-03.24.52:582][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.03.27-03.24.52:582][814]LogInit: FAudioDevice initialized with ID 28.
+[2026.03.27-03.24.52:582][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.03.27-03.24.52:582][814]LogAudio: Display: Audio Device (ID: 28) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.24.52:582][814]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.27-03.24.52:587][814]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-03.24.52:588][814]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.24.52
+[2026.03.27-03.24.52:588][814]LogWorld: Bringing up level for play took: 0.002233
+[2026.03.27-03.24.52:591][814]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.03.27-03.24.52:593][814]LogStreaming: Display: FlushAsyncLoading(984,985,986,983,982): 5 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.24.52:606][814]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.24.52:606][814]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.24.52:607][814]PIE: Server logged in
+[2026.03.27-03.24.52:610][814]PIE: Play in editor total start time 0.117 seconds.
+[2026.03.27-03.25.03:557][464]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 200.0
+[2026.03.27-03.25.23:753][674]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 300.0
+[2026.03.27-03.26.23:471][254]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 400.0
+[2026.03.27-03.26.24:903][340]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 500.0
+[2026.03.27-03.26.28:631][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.26.28:631][561]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.26.28:632][561]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.26.28:633][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.26.28:633][561]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.26.28:636][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.26.28:640][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.26.28:669][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.26.28:669][561]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.27-03.26.28:669][561]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.03.27-03.26.28:672][561]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.03.27-03.26.28:679][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.27-03.26.28:735][562]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.03.27-03.28.18:144][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4947.535156
+[2026.03.27-03.28.19:139][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.28.19:139][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4948.199219, Update Interval: 344.981232
+[2026.03.27-03.33.20:511][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.33.20:954][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2026.03.27-03.33.21:014][891]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.33.21:015][891]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine78749CD84CF3FD69D47AE8BC07B50A25.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.33.21:035][891]LogFileHelpers: All files are already saved.
+[2026.03.27-03.33.21:038][891]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.213
+[2026.03.27-03.33.21:119][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 607.866 ms (total: 4.66 sec)
+[2026.03.27-03.33.21:309][891]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.33.21:309][891]LogContentValidation: Enabled validators:
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.33.21:309][891]AssetCheck: /Game/sisis_pinball_machine Validating asset
