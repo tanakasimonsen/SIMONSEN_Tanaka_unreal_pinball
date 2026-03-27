@@ -4275,3 +4275,1258 @@ Make sure '/Game/sisis_pinball_machine.sisis_pinball_machine_C' has been compile
 [2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.27-03.33.21:309][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.27-03.33.21:309][891]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.35.02:295][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5351.676758
+[2026.03.27-03.35.02:562][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.35.02:562][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5351.876465, Update Interval: 315.590088
+[2026.03.27-03.35.44:770][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.35.45:011][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.27-03.35.45:047][598]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.35.45:048][598]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machineCD59362144C283E2949E6A9E9F8EB2DE.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.35.45:059][598]LogFileHelpers: All files are already saved.
+[2026.03.27-03.35.45:061][598]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.129
+[2026.03.27-03.35.45:116][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 346.657 ms (total: 5.01 sec)
+[2026.03.27-03.35.45:269][598]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.35.45:270][598]LogContentValidation: Enabled validators:
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.35.45:270][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.35.45:270][598]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.40.55:363][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5704.750488
+[2026.03.27-03.40.55:630][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.40.55:631][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5704.950684, Update Interval: 316.549591
+[2026.03.27-03.42.22:062][262]LogEditorTransaction: Undo Move Anchor
+[2026.03.27-03.47.03:922][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6073.333496
+[2026.03.27-03.47.04:221][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.47.04:221][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6073.533691, Update Interval: 324.884796
+[2026.03.27-03.47.24:747][752]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2026.03.27-03.48.05:418][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2026.03.27-03.48.06:143][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.48.06:456][284]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_mainmenu] ([2] browsable assets)...
+[2026.03.27-03.48.06:491][284]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_mainmenu.wbp_mainmenu]
+[2026.03.27-03.48.06:491][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_mainmenu]
+[2026.03.27-03.48.06:491][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_mainmenu" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset" SILENT=true
+[2026.03.27-03.48.06:522][284]LogSavePackage: Moving output files for package: /Game/wbp_mainmenu
+[2026.03.27-03.48.06:522][284]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_mainmenu208ADEB84A54E6ADC7D41991E614B419.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset'
+[2026.03.27-03.48.06:585][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 439.958 ms (total: 5.45 sec)
+[2026.03.27-03.48.06:778][284]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.48.06:778][284]LogContentValidation: Enabled validators:
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.48.06:778][284]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.48.06:780][284]AssetCheck: /Game/wbp_mainmenu Validating asset
+[2026.03.27-03.49.22:167][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2026.03.27-03.49.22:808][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.49.23:168][228]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_mainmenu] ([2] browsable assets)...
+[2026.03.27-03.49.23:204][228]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_mainmenu.wbp_mainmenu]
+[2026.03.27-03.49.23:204][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_mainmenu]
+[2026.03.27-03.49.23:204][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_mainmenu" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset" SILENT=true
+[2026.03.27-03.49.23:235][228]LogSavePackage: Moving output files for package: /Game/wbp_mainmenu
+[2026.03.27-03.49.23:236][228]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_mainmenuBFBA1DFF420F22679227609C02FC3F85.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset'
+[2026.03.27-03.49.23:298][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 490.723 ms (total: 5.94 sec)
+[2026.03.27-03.49.23:490][228]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.49.23:490][228]LogContentValidation: Enabled validators:
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.49.23:490][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.49.23:491][228]AssetCheck: /Game/wbp_mainmenu Validating asset
+[2026.03.27-03.49.56:373][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.03.27-03.49.57:450][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.49.57:817][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_mainmenu] ([2] browsable assets)...
+[2026.03.27-03.49.57:851][609]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_mainmenu.wbp_mainmenu]
+[2026.03.27-03.49.57:853][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_mainmenu]
+[2026.03.27-03.49.57:853][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_mainmenu" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset" SILENT=true
+[2026.03.27-03.49.57:883][609]LogSavePackage: Moving output files for package: /Game/wbp_mainmenu
+[2026.03.27-03.49.57:885][609]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_mainmenuAC17428A43BF300FB593C1B96A6917AE.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_mainmenu.uasset'
+[2026.03.27-03.49.57:946][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 496.740 ms (total: 6.44 sec)
+[2026.03.27-03.49.58:131][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.49.58:131][609]LogContentValidation: Enabled validators:
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.49.58:131][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.49.58:132][609]AssetCheck: /Game/wbp_mainmenu Validating asset
+[2026.03.27-03.50.06:599][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.03.27-03.50.12:146][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2026.03.27-03.50.13:052][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.50.13:493][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.03.27-03.50.13:550][798]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-03.50.13:552][798]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine71D8133E4ACC621F478E41AB62C4FDD1.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-03.50.13:569][798]LogFileHelpers: All files are already saved.
+[2026.03.27-03.50.13:571][798]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.180
+[2026.03.27-03.50.13:631][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 579.007 ms (total: 7.02 sec)
+[2026.03.27-03.50.13:890][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.50.13:890][798]LogContentValidation: Enabled validators:
+[2026.03.27-03.50.13:890][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.50.13:890][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.50.13:891][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.50.13:891][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.50.13:891][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.50.13:891][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.50.13:891][798]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-03.50.21:801][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.27-03.50.21:931][898]LogStreaming: Display: FlushAsyncLoading(987): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.50.21:936][898]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.50.21:939][898]LogAssetEditorSubsystem: Opening Asset editor for World /Game/main_menu.main_menu
+[2026.03.27-03.50.21:942][898]Cmd: MAP LOAD FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/main_menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-03.50.22:117][898]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.50.22:117][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.50.22:250][898]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.50.22:251][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.50.22:251][898]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.50.22:307][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-03.50.22:447][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.03.27-03.50.22:463][898]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.50.22:463][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.50.22:525][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.27-03.50.22:561][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.27-03.50.22:565][898]LogAudio: Display: Audio Device (ID: 1) registered with world 'main_menu'.
+[2026.03.27-03.50.22:565][898]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.50.22:621][898]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-03.50.22:679][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.03.27-03.50.22:694][898]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-03.50.22:694][898]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2026.03.27-03.50.22:887][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.27-03.50.25:642][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.50.25:658][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.50.25:659][931]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_menu
+[2026.03.27-03.50.25:663][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001720s)
+[2026.03.27-03.50.25:663][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu.main_menu to /Game/UEDPIE_0_main_menu.main_menu (0.003639s)
+[2026.03.27-03.50.25:811][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.03.27-03.50.25:816][931]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.50.25:819][931]LogPlayLevel: PIE: World Init took: (0.003362s)
+[2026.03.27-03.50.25:821][931]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.50.25:821][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.50.25:821][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.50.25:821][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.50.25:821][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.50.25:821][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.50.25:825][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.50.25:884][931]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.50.25:887][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.50.25:887][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.50.25:887][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.50.25:888][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.03.27-03.50.25:888][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.03.27-03.50.25:893][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.03.27-03.50.25:893][931]LogInit: FAudioDevice initialized with ID 29.
+[2026.03.27-03.50.25:893][931]LogAudio: Display: Audio Device (ID: 29) registered with world 'main_menu'.
+[2026.03.27-03.50.25:893][931]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.27-03.50.25:895][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.03.27-03.50.25:903][931]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-03.50.25:904][931]LogWorld: Bringing World /Game/UEDPIE_0_main_menu.main_menu up for play (max tick rate 60) at 2026.03.26-20.50.25
+[2026.03.27-03.50.25:905][931]LogWorld: Bringing up level for play took: 0.001127
+[2026.03.27-03.50.25:910][931]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.03.27-03.50.25:916][931]PIE: Server logged in
+[2026.03.27-03.50.25:922][931]PIE: Play in editor total start time 0.264 seconds.
+[2026.03.27-03.50.36:886][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.50.36:886][ 79]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_menu
+[2026.03.27-03.50.36:886][ 79]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.50.36:886][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.50.37:050][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.50.37:055][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.50.37:203][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.50.37:203][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.27-03.50.37:203][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.03.27-03.50.37:208][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.03.27-03.50.37:225][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2026.03.27-03.50.37:279][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.03.27-03.50.41:779][138]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.27-03.51.03:697][409]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/main_menu.main_menu:PersistentLevel.main_menu
+[2026.03.27-03.51.03:698][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.03.27-03.52.09:828][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.03.27-03.52.11:212][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.52.11:518][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_menu" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/main_menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.27-03.52.11:636][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.27-03.52.11:670][161]LogSavePackage: Moving output files for package: /Game/main_menu
+[2026.03.27-03.52.11:671][161]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/main_menuB3D39DBC467C4BB2510AFCB71F8F6085.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/main_menu.umap'
+[2026.03.27-03.52.11:696][161]LogFileHelpers: Saving map 'main_menu' took 0.180
+[2026.03.27-03.52.11:758][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 545.534 ms (total: 7.56 sec)
+[2026.03.27-03.52.11:952][161]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.52.11:952][161]LogContentValidation: Enabled validators:
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.52.11:952][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.52.11:952][161]AssetCheck: /Game/main_menu Validating asset
+[2026.03.27-03.52.13:459][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.52.13:471][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.52.13:471][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.13:473][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2026.03.27-03.52.13:473][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu.main_menu to /Game/UEDPIE_0_main_menu.main_menu (0.001806s)
+[2026.03.27-03.52.13:555][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.03.27-03.52.13:557][183]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.52.13:560][183]LogPlayLevel: PIE: World Init took: (0.002461s)
+[2026.03.27-03.52.13:561][183]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.52.13:561][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.52.13:561][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.52.13:561][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.52.13:561][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.52.13:561][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.52.13:564][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.52.13:597][183]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.52.13:598][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.52.13:598][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.52.13:598][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.52.13:598][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.03.27-03.52.13:598][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.03.27-03.52.13:602][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.03.27-03.52.13:602][183]LogInit: FAudioDevice initialized with ID 30.
+[2026.03.27-03.52.13:602][183]LogAudio: Display: Audio Device (ID: 30) registered with world 'main_menu'.
+[2026.03.27-03.52.13:602][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.27-03.52.13:604][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.03.27-03.52.13:609][183]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-03.52.13:609][183]LogWorld: Bringing World /Game/UEDPIE_0_main_menu.main_menu up for play (max tick rate 60) at 2026.03.26-20.52.13
+[2026.03.27-03.52.13:610][183]LogWorld: Bringing up level for play took: 0.000560
+[2026.03.27-03.52.13:612][183]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.03.27-03.52.13:616][183]PIE: Server logged in
+[2026.03.27-03.52.13:620][183]PIE: Play in editor total start time 0.15 seconds.
+[2026.03.27-03.52.15:252][205]LogBlueprintUserMessages: [wbp_mainmenu_C_0] Game Mode = Freeplay
+[2026.03.27-03.52.15:257][205]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C"
+[2026.03.27-03.52.15:257][205]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-03.52.15:260][205]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-03.52.15:260][205]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.15:262][205]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.52.15:262][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.15:331][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-03.52.15:336][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.03.27-03.52.15:386][205]LogStreaming: Display: FlushAsyncLoading(989): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.52.15:586][205]LogAudio: Display: Audio Device (ID: 30) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.52.15:586][205]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.52.15:588][205]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.52.15:589][205]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.52.15:589][205]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.03.27-03.52.15:589][205]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.52.15:601][205]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.52.15:603][205]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.52.15:603][205]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.52.15:603][205]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.52.15:603][205]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.52.15:603][205]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.52.16:230][205]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 628.330 ms (total: 697.621 ms)
+[2026.03.27-03.52.16:242][205]LogWorldPartition: Display: WorldPartition initialize took 653.356 ms (total: 1.33 sec)
+[2026.03.27-03.52.16:242][205]LogPlayLevel: PIE: World Init took: (0.656156s)
+[2026.03.27-03.52.16:256][205]LogLoad: Game class is 'bp_pinball_gamemode_freeplay_C'
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/GW/GYLLBJ5BCIK80S0V408CIP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/XJ/MTMW5YMG74UA1NWW9W11Z7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/GM/P6R620H222V419CFL2LZVG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/P1/AEHUSH0WM5UF4CG9PRNDV1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/ZY/5HXTI3YXI9YJR59ROYWB82.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/2N/DSRT6DKYR6XFHP10XYM2XI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/7P/U1JML9ADGQZ8QH00793IFX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/9Y/7G76FHVWON6DWXIC8AMOVU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/EE/0VYH9QRDF74U8BPS5LTO4X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/F9/BJC61673178AE7LBPF7XXH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/GQ/YU8K4S17UPFAN2SQ1HQ9SW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/S9/RK0BTD3HJ80J1JZS8ROZCK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/SS/GAZ0N4IBACCMYCJKT4R2RA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/YF/Z0PN66GM1GGZM7Y5GUOH5X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/3Z/R2EN6AIHOAEJG5RP85KDPE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/9N/ITG07YBRH08ZKMDJQ0CNXD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NE/NFU1QYT7HJJNQCNO7BDS7X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NM/8OXZQPPWVHXTUJ5ZS5HUTD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/8A/QQHE8P10X360Z7Z3LZOLL6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/CN/II2J111U3XA44JDDB90S9J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/E0/6SE0154FQESNVK9ECY1OSD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/FH/I277XUG2FTCR1GN6NVNAV4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/H2/WXHCJLBL2XBOVSHHQL3VTB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/M3/H649716L4S7Z1828UYHUNN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/O9/X6BTFGOOEYBMDKG46NTCEB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/PW/GFDG8OOTISX866O33REGB1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:258][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/2L/28EKRRQ4Q6ODNOMAAP79WC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/5A/6L2ZC4MNH3L4ZPK4W3BB6W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/IY/VK4HJP8HD2MNSHP7GHG3W6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/OQ/64IFH2Q8PE7SX3CTG40VB4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/Z3/I1FJRK5RF1R6V3XK5TW24Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/4P/PTICZIB7XVOP6YTONEDS31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/AO/UTM559UH1IRDT8B5DU2O6D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/JK/C163HZ96BU0GNRK1BE4HBN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/OH/5TUDQ2E0DAGJ3QKWN7IOOP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/S9/570APTIW9YK5SWPI2MPG37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/2L/4LJ66JXI8S6G83ZFFL2K97.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/UX/ODSL5N6K1LR8TBB4O37K31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/0H/9QYGVFLEMRNQR4EL6750MH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/I9/7XOGYGKF1SHUYY3RE11KLJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QE/0I6NLB1NS6OGAW99UY5TLO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QU/F30I3MEYHFVCS838OEHDGI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/RV/1IPXJVUG7J0TGMNNWQRJNT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/TD/TB78P3P9M87S598TU3PI37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/EH/SKK0X1Z4L2BIDVJVQ9ZVBE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/Y0/4I1O3Q2XZKMR6C8L5M5XT8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/YR/WVN2GN5CWRMQ4TMF2IJTWC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/13/VPNKHU88DSB7G47GO2PSRM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/M4/QX87G78LF520JXGTZSVIA4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/EY/PHLA3BL19GZ7X3OS19ANQ4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/II/MOAMXU3848H630W0E47MZ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/L2/3PIFWT7HBRESQ5YC04Z24E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/LQ/SE7T0CJ3WLK7EJIEEZOKL3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/OA/PXXO06NZ92WOK5MAZ8G9M2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/0K/B9HPMR2D3MCQNFYZQ0A26P.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/85/UVMT2IQSWS880DO6ZX2KO4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/AI/3FTCKY2G8VUN5H6BROPWJU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/UB/QTXUV446V4BS1D7JQASLD5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/XM/LYS5D9UD0S5RAUUK43GQI7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/2O/BKK2SL3SPZVPQ99U3Q79YV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/Q9/41YTE55JTBO7K5WOP2LHA9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:259][205]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/WS/K6T5FLD5W416WYJBMEU1R0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.16:275][205]LogStaticMesh: Display: Waiting for static meshes to be ready 0/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/GW/GYLLBJ5BCIK80S0V408CIP) ...
+[2026.03.27-03.52.16:342][205]LogStaticMesh: Display: Waiting for static meshes to be ready 11/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/F9/BJC61673178AE7LBPF7XXH) ...
+[2026.03.27-03.52.16:359][205]LogStaticMesh: Display: Waiting for static meshes to be ready 16/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/SS/GAZ0N4IBACCMYCJKT4R2RA) ...
+[2026.03.27-03.52.16:392][205]LogStaticMesh: Display: Waiting for static meshes to be ready 24/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/FH/I277XUG2FTCR1GN6NVNAV4) ...
+[2026.03.27-03.52.16:408][205]LogStaticMesh: Display: Waiting for static meshes to be ready 29/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/5A/6L2ZC4MNH3L4ZPK4W3BB6W) ...
+[2026.03.27-03.52.16:457][205]LogStaticMesh: Display: Waiting for static meshes to be ready 47/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/Z3/I1FJRK5RF1R6V3XK5TW24Z) ...
+[2026.03.27-03.52.16:475][205]LogStaticMesh: Display: Waiting for static meshes to be ready 48/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8) ...
+[2026.03.27-03.52.16:513][205]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.52.16
+[2026.03.27-03.52.16:514][205]LogWorld: Bringing up level for play took: 0.013450
+[2026.03.27-03.52.16:514][205]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.27-03.52.16:537][205]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.52.16:537][205]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.52.16:538][205]LogLoad: Took 1.278152 seconds to LoadMap(/Game/sisis_pinball_machine)
+[2026.03.27-03.52.16:538][205]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/sisis_pinball_machine
+[2026.03.27-03.52.34:756][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.52.34:756][476]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.52.34:758][476]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.52.34:759][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.34:760][476]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.52.34:839][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.52.34:848][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.34:931][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.52.34:932][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.27-03.52.34:932][476]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.03.27-03.52.34:938][476]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.03.27-03.52.34:963][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2026.03.27-03.52.35:037][477]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.03.27-03.52.35:998][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.52.36:017][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.52.36:019][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.36:021][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003446s)
+[2026.03.27-03.52.36:022][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu.main_menu to /Game/UEDPIE_0_main_menu.main_menu (0.003561s)
+[2026.03.27-03.52.36:117][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.03.27-03.52.36:121][491]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.52.36:125][491]LogPlayLevel: PIE: World Init took: (0.004418s)
+[2026.03.27-03.52.36:128][491]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.52.36:128][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.52.36:128][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.52.36:128][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.52.36:128][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.52.36:128][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.52.36:134][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.52.36:193][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.52.36:194][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.52.36:194][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.52.36:194][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.52.36:195][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.03.27-03.52.36:195][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.03.27-03.52.36:203][491]LogInit: FAudioDevice initialized with ID 31.
+[2026.03.27-03.52.36:203][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.03.27-03.52.36:203][491]LogAudio: Display: Audio Device (ID: 31) registered with world 'main_menu'.
+[2026.03.27-03.52.36:203][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.03.27-03.52.36:203][491]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.27-03.52.36:214][491]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-03.52.36:215][491]LogWorld: Bringing World /Game/UEDPIE_0_main_menu.main_menu up for play (max tick rate 60) at 2026.03.26-20.52.36
+[2026.03.27-03.52.36:215][491]LogWorld: Bringing up level for play took: 0.001393
+[2026.03.27-03.52.36:221][491]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.03.27-03.52.36:227][491]PIE: Server logged in
+[2026.03.27-03.52.36:234][491]PIE: Play in editor total start time 0.218 seconds.
+[2026.03.27-03.52.37:761][514]LogBlueprintUserMessages: [wbp_mainmenu_C_0] Game Mode = Freeplay
+[2026.03.27-03.52.37:768][514]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C"
+[2026.03.27-03.52.37:768][514]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-03.52.37:768][514]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-03.52.37:768][514]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.37:769][514]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.52.37:769][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.37:824][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-03.52.37:829][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2026.03.27-03.52.37:896][514]LogStreaming: Display: FlushAsyncLoading(1070): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.52.37:979][514]LogAudio: Display: Audio Device (ID: 31) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.52.37:980][514]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.52.37:983][514]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.52.37:984][514]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.52.37:984][514]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.03.27-03.52.37:984][514]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.52.37:990][514]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.52.37:992][514]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.52.37:992][514]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.52.37:992][514]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.52.37:992][514]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.52.37:992][514]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.52.38:089][514]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 99.288 ms (total: 796.909 ms)
+[2026.03.27-03.52.38:111][514]LogWorldPartition: Display: WorldPartition initialize took 128.549 ms (total: 1.45 sec)
+[2026.03.27-03.52.38:111][514]LogPlayLevel: PIE: World Init took: (0.132173s)
+[2026.03.27-03.52.38:111][514]LogLoad: Game class is 'bp_pinball_gamemode_freeplay_C'
+[2026.03.27-03.52.38:112][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/L2/3PIFWT7HBRESQ5YC04Z24E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/Q9/41YTE55JTBO7K5WOP2LHA9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/0K/B9HPMR2D3MCQNFYZQ0A26P.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/2O/BKK2SL3SPZVPQ99U3Q79YV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/XM/LYS5D9UD0S5RAUUK43GQI7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/UB/QTXUV446V4BS1D7JQASLD5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/WS/K6T5FLD5W416WYJBMEU1R0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/AI/3FTCKY2G8VUN5H6BROPWJU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/OA/PXXO06NZ92WOK5MAZ8G9M2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/EY/PHLA3BL19GZ7X3OS19ANQ4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/85/UVMT2IQSWS880DO6ZX2KO4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/M4/QX87G78LF520JXGTZSVIA4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/TD/TB78P3P9M87S598TU3PI37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/RV/1IPXJVUG7J0TGMNNWQRJNT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/LQ/SE7T0CJ3WLK7EJIEEZOKL3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/Y0/4I1O3Q2XZKMR6C8L5M5XT8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/II/MOAMXU3848H630W0E47MZ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/13/VPNKHU88DSB7G47GO2PSRM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/YR/WVN2GN5CWRMQ4TMF2IJTWC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QU/F30I3MEYHFVCS838OEHDGI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/EH/SKK0X1Z4L2BIDVJVQ9ZVBE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/2L/4LJ66JXI8S6G83ZFFL2K97.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/0H/9QYGVFLEMRNQR4EL6750MH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QE/0I6NLB1NS6OGAW99UY5TLO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/UX/ODSL5N6K1LR8TBB4O37K31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/I9/7XOGYGKF1SHUYY3RE11KLJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/S9/570APTIW9YK5SWPI2MPG37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/H2/WXHCJLBL2XBOVSHHQL3VTB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/FH/I277XUG2FTCR1GN6NVNAV4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/4P/PTICZIB7XVOP6YTONEDS31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NE/NFU1QYT7HJJNQCNO7BDS7X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:113][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/JK/C163HZ96BU0GNRK1BE4HBN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/Z3/I1FJRK5RF1R6V3XK5TW24Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/OH/5TUDQ2E0DAGJ3QKWN7IOOP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/AO/UTM559UH1IRDT8B5DU2O6D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/OQ/64IFH2Q8PE7SX3CTG40VB4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/5A/6L2ZC4MNH3L4ZPK4W3BB6W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/IY/VK4HJP8HD2MNSHP7GHG3W6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/2L/28EKRRQ4Q6ODNOMAAP79WC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/XJ/MTMW5YMG74UA1NWW9W11Z7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/PW/GFDG8OOTISX866O33REGB1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/O9/X6BTFGOOEYBMDKG46NTCEB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/9N/ITG07YBRH08ZKMDJQ0CNXD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/M3/H649716L4S7Z1828UYHUNN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/GQ/YU8K4S17UPFAN2SQ1HQ9SW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/3Z/R2EN6AIHOAEJG5RP85KDPE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/E0/6SE0154FQESNVK9ECY1OSD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/CN/II2J111U3XA44JDDB90S9J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/8A/QQHE8P10X360Z7Z3LZOLL6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NM/8OXZQPPWVHXTUJ5ZS5HUTD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/YF/Z0PN66GM1GGZM7Y5GUOH5X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/SS/GAZ0N4IBACCMYCJKT4R2RA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/F9/BJC61673178AE7LBPF7XXH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/S9/RK0BTD3HJ80J1JZS8ROZCK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/GW/GYLLBJ5BCIK80S0V408CIP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/EE/0VYH9QRDF74U8BPS5LTO4X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/9Y/7G76FHVWON6DWXIC8AMOVU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/7P/U1JML9ADGQZ8QH00793IFX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/2N/DSRT6DKYR6XFHP10XYM2XI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/ZY/5HXTI3YXI9YJR59ROYWB82.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/P1/AEHUSH0WM5UF4CG9PRNDV1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:114][514]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/GM/P6R620H222V419CFL2LZVG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.38:130][514]LogStaticMesh: Display: Waiting for static meshes to be ready 10/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/L2/3PIFWT7HBRESQ5YC04Z24E) ...
+[2026.03.27-03.52.38:147][514]LogStaticMesh: Display: Waiting for static meshes to be ready 23/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/Q9/41YTE55JTBO7K5WOP2LHA9) ...
+[2026.03.27-03.52.38:164][514]LogStaticMesh: Display: Waiting for static meshes to be ready 31/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/OA/PXXO06NZ92WOK5MAZ8G9M2) ...
+[2026.03.27-03.52.38:181][514]LogStaticMesh: Display: Waiting for static meshes to be ready 34/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/Y0/4I1O3Q2XZKMR6C8L5M5XT8) ...
+[2026.03.27-03.52.38:197][514]LogStaticMesh: Display: Waiting for static meshes to be ready 42/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/2L/4LJ66JXI8S6G83ZFFL2K97) ...
+[2026.03.27-03.52.38:214][514]LogStaticMesh: Display: Waiting for static meshes to be ready 53/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/AO/UTM559UH1IRDT8B5DU2O6D) ...
+[2026.03.27-03.52.38:253][514]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.52.38
+[2026.03.27-03.52.38:254][514]LogWorld: Bringing up level for play took: 0.014472
+[2026.03.27-03.52.38:255][514]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.27-03.52.38:294][514]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.52.38:294][514]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.52.38:294][514]LogLoad: Took 0.527063 seconds to LoadMap(/Game/sisis_pinball_machine)
+[2026.03.27-03.52.38:295][514]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/sisis_pinball_machine
+[2026.03.27-03.52.45:285][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.52.45:286][612]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.52.45:287][612]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.52.45:288][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.45:288][612]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.52.45:415][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.52.45:428][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.45:533][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.52.45:533][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.27-03.52.45:533][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.03.27-03.52.45:538][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.03.27-03.52.45:562][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2026.03.27-03.52.45:620][613]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.03.27-03.52.53:852][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-03.52.53:871][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-03.52.53:871][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.53:874][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002910s)
+[2026.03.27-03.52.53:874][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu.main_menu to /Game/UEDPIE_0_main_menu.main_menu (0.003020s)
+[2026.03.27-03.52.54:048][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.03.27-03.52.54:053][732]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-03.52.54:057][732]LogPlayLevel: PIE: World Init took: (0.003608s)
+[2026.03.27-03.52.54:059][732]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-03.52.54:059][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-03.52.54:059][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-03.52.54:059][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-03.52.54:059][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-03.52.54:059][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-03.52.54:064][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-03.52.54:117][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-03.52.54:117][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-03.52.54:117][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-03.52.54:117][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-03.52.54:118][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.03.27-03.52.54:118][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.03.27-03.52.54:124][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.03.27-03.52.54:124][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.03.27-03.52.54:125][732]LogInit: FAudioDevice initialized with ID 32.
+[2026.03.27-03.52.54:125][732]LogAudio: Display: Audio Device (ID: 32) registered with world 'main_menu'.
+[2026.03.27-03.52.54:125][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.27-03.52.54:135][732]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-03.52.54:136][732]LogWorld: Bringing World /Game/UEDPIE_0_main_menu.main_menu up for play (max tick rate 60) at 2026.03.26-20.52.54
+[2026.03.27-03.52.54:136][732]LogWorld: Bringing up level for play took: 0.001075
+[2026.03.27-03.52.54:141][732]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.03.27-03.52.54:147][732]PIE: Server logged in
+[2026.03.27-03.52.54:152][732]PIE: Play in editor total start time 0.283 seconds.
+[2026.03.27-03.52.56:020][756]LogBlueprintUserMessages: [wbp_mainmenu_C_0] Game Mode = Scored
+[2026.03.27-03.52.56:026][756]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C"
+[2026.03.27-03.52.56:026][756]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-03.52.56:026][756]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-03.52.56:027][756]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_menu
+[2026.03.27-03.52.56:028][756]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.52.56:028][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.52.56:133][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-03.52.56:138][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.03.27-03.52.56:152][756]LogStreaming: Display: FlushAsyncLoading(1150): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-03.52.56:229][756]LogAudio: Display: Audio Device (ID: 32) registered with world 'sisis_pinball_machine'.
+[2026.03.27-03.52.56:229][756]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-03.52.56:232][756]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-03.52.56:232][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-03.52.56:232][756]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.03.27-03.52.56:232][756]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-03.52.56:239][756]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-03.52.56:242][756]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-03.52.56:242][756]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-03.52.56:242][756]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_plunger 
+[2026.03.27-03.52.56:242][756]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_killzone 
+[2026.03.27-03.52.56:242][756]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-03.52.56:331][756]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 92.433 ms (total: 889.343 ms)
+[2026.03.27-03.52.56:354][756]LogWorldPartition: Display: WorldPartition initialize took 121.539 ms (total: 1.58 sec)
+[2026.03.27-03.52.56:354][756]LogPlayLevel: PIE: World Init took: (0.125375s)
+[2026.03.27-03.52.56:354][756]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/TD/TB78P3P9M87S598TU3PI37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/0H/9QYGVFLEMRNQR4EL6750MH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/L2/3PIFWT7HBRESQ5YC04Z24E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/RV/1IPXJVUG7J0TGMNNWQRJNT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QU/F30I3MEYHFVCS838OEHDGI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/II/MOAMXU3848H630W0E47MZ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/UX/ODSL5N6K1LR8TBB4O37K31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/JK/C163HZ96BU0GNRK1BE4HBN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/OQ/64IFH2Q8PE7SX3CTG40VB4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/I9/7XOGYGKF1SHUYY3RE11KLJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/AO/UTM559UH1IRDT8B5DU2O6D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/2L/4LJ66JXI8S6G83ZFFL2K97.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/S9/570APTIW9YK5SWPI2MPG37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/4P/PTICZIB7XVOP6YTONEDS31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/Z3/I1FJRK5RF1R6V3XK5TW24Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/5A/6L2ZC4MNH3L4ZPK4W3BB6W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/IY/VK4HJP8HD2MNSHP7GHG3W6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/PW/GFDG8OOTISX866O33REGB1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/2L/28EKRRQ4Q6ODNOMAAP79WC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/O9/X6BTFGOOEYBMDKG46NTCEB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/E0/6SE0154FQESNVK9ECY1OSD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/M3/H649716L4S7Z1828UYHUNN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/H2/WXHCJLBL2XBOVSHHQL3VTB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/FH/I277XUG2FTCR1GN6NVNAV4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/CN/II2J111U3XA44JDDB90S9J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/YF/Z0PN66GM1GGZM7Y5GUOH5X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/8A/QQHE8P10X360Z7Z3LZOLL6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NM/8OXZQPPWVHXTUJ5ZS5HUTD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/S9/RK0BTD3HJ80J1JZS8ROZCK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/SS/GAZ0N4IBACCMYCJKT4R2RA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/EY/PHLA3BL19GZ7X3OS19ANQ4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NE/NFU1QYT7HJJNQCNO7BDS7X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/9N/ITG07YBRH08ZKMDJQ0CNXD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/3Z/R2EN6AIHOAEJG5RP85KDPE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/GQ/YU8K4S17UPFAN2SQ1HQ9SW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.03.27-03.52.56:355][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/F9/BJC61673178AE7LBPF7XXH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/EE/0VYH9QRDF74U8BPS5LTO4X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/9Y/7G76FHVWON6DWXIC8AMOVU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/7P/U1JML9ADGQZ8QH00793IFX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/2N/DSRT6DKYR6XFHP10XYM2XI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/WS/K6T5FLD5W416WYJBMEU1R0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/ZY/5HXTI3YXI9YJR59ROYWB82.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/P1/AEHUSH0WM5UF4CG9PRNDV1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/M4/QX87G78LF520JXGTZSVIA4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/GM/P6R620H222V419CFL2LZVG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/Q9/41YTE55JTBO7K5WOP2LHA9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/13/VPNKHU88DSB7G47GO2PSRM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/XJ/MTMW5YMG74UA1NWW9W11Z7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/GW/GYLLBJ5BCIK80S0V408CIP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QE/0I6NLB1NS6OGAW99UY5TLO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/YR/WVN2GN5CWRMQ4TMF2IJTWC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/Y0/4I1O3Q2XZKMR6C8L5M5XT8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/2O/BKK2SL3SPZVPQ99U3Q79YV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/EH/SKK0X1Z4L2BIDVJVQ9ZVBE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/XM/LYS5D9UD0S5RAUUK43GQI7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/OH/5TUDQ2E0DAGJ3QKWN7IOOP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/UB/QTXUV446V4BS1D7JQASLD5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/AI/3FTCKY2G8VUN5H6BROPWJU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/85/UVMT2IQSWS880DO6ZX2KO4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/0K/B9HPMR2D3MCQNFYZQ0A26P.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/OA/PXXO06NZ92WOK5MAZ8G9M2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:356][756]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/LQ/SE7T0CJ3WLK7EJIEEZOKL3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-03.52.56:374][756]LogStaticMesh: Display: Waiting for static meshes to be ready 8/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/TD/TB78P3P9M87S598TU3PI37) ...
+[2026.03.27-03.52.56:389][756]LogStaticMesh: Display: Waiting for static meshes to be ready 21/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/II/MOAMXU3848H630W0E47MZ2) ...
+[2026.03.27-03.52.56:405][756]LogStaticMesh: Display: Waiting for static meshes to be ready 23/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/UX/ODSL5N6K1LR8TBB4O37K31) ...
+[2026.03.27-03.52.56:421][756]LogStaticMesh: Display: Waiting for static meshes to be ready 36/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR) ...
+[2026.03.27-03.52.56:437][756]LogStaticMesh: Display: Waiting for static meshes to be ready 43/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NM/8OXZQPPWVHXTUJ5ZS5HUTD) ...
+[2026.03.27-03.52.56:452][756]LogStaticMesh: Display: Waiting for static meshes to be ready 53/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8) ...
+[2026.03.27-03.52.56:469][756]LogStaticMesh: Display: Waiting for static meshes to be ready 61/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/AI/3FTCKY2G8VUN5H6BROPWJU) ...
+[2026.03.27-03.52.56:481][756]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-20.52.56
+[2026.03.27-03.52.56:482][756]LogWorld: Bringing up level for play took: 0.013720
+[2026.03.27-03.52.56:483][756]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.27-03.52.56:516][756]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-03.52.56:516][756]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-03.52.56:517][756]LogLoad: Took 0.490348 seconds to LoadMap(/Game/sisis_pinball_machine)
+[2026.03.27-03.52.56:517][756]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/sisis_pinball_machine
+[2026.03.27-03.53.02:025][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.53.02:025][837]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-03.53.02:027][837]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-03.53.02:028][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.53.02:028][837]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-03.53.02:151][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-03.53.02:159][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-03.53.02:267][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-03.53.02:268][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.27-03.53.02:268][837]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.03.27-03.53.02:273][837]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.03.27-03.53.02:297][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2026.03.27-03.53.02:357][838]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.03.27-03.53.21:357][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_pinballgamestate.bp_pinballgamestate
+[2026.03.27-03.53.21:357][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.03.27-03.53.22:769][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6452.204102
+[2026.03.27-03.53.23:008][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.53.23:008][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6452.421387, Update Interval: 312.237305
+[2026.03.27-03.53.30:853][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.03.27-03.53.31:680][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-03.53.32:032][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bp_pinballgamestate] ([2] browsable assets)...
+[2026.03.27-03.53.32:033][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_pinballgamestate]
+[2026.03.27-03.53.32:033][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_pinballgamestate" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/bp_pinballgamestate.uasset" SILENT=true
+[2026.03.27-03.53.32:068][168]LogSavePackage: Moving output files for package: /Game/bp_pinballgamestate
+[2026.03.27-03.53.32:070][168]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/bp_pinballgamestate92E0362D4B3660DCDA9A2F87AD895A64.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/bp_pinballgamestate.uasset'
+[2026.03.27-03.53.32:146][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 465.869 ms (total: 8.03 sec)
+[2026.03.27-03.53.32:343][168]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-03.53.32:343][168]LogContentValidation: Enabled validators:
+[2026.03.27-03.53.32:343][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-03.53.32:344][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-03.53.32:344][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-03.53.32:344][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-03.53.32:344][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-03.53.32:344][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-03.53.32:344][168]AssetCheck: /Game/bp_pinballgamestate Validating asset
+[2026.03.27-03.59.32:612][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6822.057617
+[2026.03.27-03.59.32:879][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-03.59.32:880][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6822.257324, Update Interval: 323.657959
+[2026.03.27-04.03.45:534][392]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.27-04.03.47:131][404]LogEditorTransaction: Undo Resize Widget
+[2026.03.27-04.04.52:123][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.03.27-04.04.53:423][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.04.53:737][232]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_pinballhud] ([2] browsable assets)...
+[2026.03.27-04.04.53:771][232]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_pinballhud.wbp_pinballhud]
+[2026.03.27-04.04.53:771][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_pinballhud]
+[2026.03.27-04.04.53:772][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_pinballhud" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset" SILENT=true
+[2026.03.27-04.04.53:801][232]LogSavePackage: Moving output files for package: /Game/wbp_pinballhud
+[2026.03.27-04.04.53:802][232]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_pinballhudDCE76BFB4AAF7327997E2BBAE048216F.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset'
+[2026.03.27-04.04.53:857][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 435.188 ms (total: 8.46 sec)
+[2026.03.27-04.04.54:000][232]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.04.54:000][232]LogContentValidation: Enabled validators:
+[2026.03.27-04.04.54:000][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.04.54:001][232]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.04.54:001][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.04.54:001][232]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.04.54:001][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.04.54:001][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.04.54:001][232]AssetCheck: /Game/wbp_pinballhud Validating asset
+[2026.03.27-04.05.32:665][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7182.117188
+[2026.03.27-04.05.32:932][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-04.05.32:932][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7182.317871, Update Interval: 302.294373
+[2026.03.27-04.05.51:223][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2026.03.27-04.05.51:998][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.05.52:331][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_pinballhud] ([2] browsable assets)...
+[2026.03.27-04.05.52:365][891]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_pinballhud.wbp_pinballhud]
+[2026.03.27-04.05.52:365][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_pinballhud]
+[2026.03.27-04.05.52:365][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_pinballhud" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset" SILENT=true
+[2026.03.27-04.05.52:399][891]LogSavePackage: Moving output files for package: /Game/wbp_pinballhud
+[2026.03.27-04.05.52:401][891]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_pinballhud64C234904C42EE3B7FB31BB6F84875C8.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset'
+[2026.03.27-04.05.52:460][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 463.288 ms (total: 8.93 sec)
+[2026.03.27-04.05.52:629][891]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.05.52:629][891]LogContentValidation: Enabled validators:
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.05.52:629][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.05.52:631][891]AssetCheck: /Game/wbp_pinballhud Validating asset
+[2026.03.27-04.06.36:631][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.03.27-04.06.37:546][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.06.37:871][434]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/wbp_pinballhud] ([2] browsable assets)...
+[2026.03.27-04.06.37:905][434]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/wbp_pinballhud.wbp_pinballhud]
+[2026.03.27-04.06.37:905][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/wbp_pinballhud]
+[2026.03.27-04.06.37:905][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wbp_pinballhud" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset" SILENT=true
+[2026.03.27-04.06.37:941][434]LogSavePackage: Moving output files for package: /Game/wbp_pinballhud
+[2026.03.27-04.06.37:942][434]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/wbp_pinballhud8652C830453D9E3215460B9A4D9D6962.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/wbp_pinballhud.uasset'
+[2026.03.27-04.06.38:003][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 455.551 ms (total: 9.38 sec)
+[2026.03.27-04.06.38:181][434]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.06.38:181][434]LogContentValidation: Enabled validators:
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.06.38:181][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.06.38:182][434]AssetCheck: /Game/wbp_pinballhud Validating asset
+[2026.03.27-04.06.54:486][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2026.03.27-04.06.54:495][614]LogStreaming: Display: FlushAsyncLoading(1230): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.06.54:714][614]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.06.54:722][614]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-04.06.54:722][614]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.06.54:722][614]LogWorldPartition: UWorldPartition::Initialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.06.54:770][614]LogWorldPartition: Display: WorldPartition initialize took 47.757 ms (total: 1.62 sec)
+[2026.03.27-04.06.54:776][614]LogAssetEditorSubsystem: Opening Asset editor for World /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.06.54:777][614]Cmd: MAP LOAD FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-04.06.54:880][614]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.06.54:880][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.06.54:933][614]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.06.54:933][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.06.55:043][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-04.06.55:051][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.03.27-04.06.55:067][614]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.06.55:067][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.06.55:067][614]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.06.55:168][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.03.27-04.06.55:256][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.03.27-04.06.55:339][614]LogAudio: Display: Audio Device (ID: 1) registered with world 'sisis_pinball_machine'.
+[2026.03.27-04.06.55:339][614]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.06.55:343][614]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-04.06.55:344][614]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.06.55:344][614]LogWorldPartition: UWorldPartition::Initialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.06.55:378][614]LogWorldPartition: Display: WorldPartition initialize took 34.568 ms (total: 1.66 sec)
+[2026.03.27-04.06.55:452][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-04.06.55:485][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.27-04.06.55:499][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-04.06.55:501][614]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-04.06.55:501][614]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-04.06.55:501][614]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-04.06.55:501][614]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-04.06.55:501][614]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-04.06.55:502][614]MapCheck: Map check complete: 5 Error(s), 0 Warning(s), took 2.494ms to complete.
+[2026.03.27-04.06.55:764][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.27-04.07.03:499][663]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-04.07.03:861][663]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-04.07.11:400][719]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/sisis_pinball_machine.sisis_pinball_machine:PersistentLevel.sisis_pinball_machine
+[2026.03.27-04.07.11:401][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.03.27-04.07.43:116][153]LogDerivedDataCache: C:/Users/simon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.27-04.08.49:247][933]LogEditorTransaction: Undo Create Pin Link
+[2026.03.27-04.09.15:207][198]LogEditorTransaction: Undo Create Pin Link
+[2026.03.27-04.09.15:744][199]LogEditorTransaction: Undo Create Pin Link
+[2026.03.27-04.09.15:989][200]LogEditorTransaction: Undo Move Node
+[2026.03.27-04.09.16:346][204]LogEditorTransaction: Undo Add Node
+[2026.03.27-04.11.12:266][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7521.728516
+[2026.03.27-04.11.12:566][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-04.11.12:567][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7521.928223, Update Interval: 330.835907
+[2026.03.27-04.13.41:536][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2026.03.27-04.13.42:203][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.13.42:765][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2026.03.27-04.13.42:830][681]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-04.13.42:832][681]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machineCF3AAEC14F7ACA00FD8CE4AAE3191A1D.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-04.13.42:849][681]LogFileHelpers: All files are already saved.
+[2026.03.27-04.13.42:851][681]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.230
+[2026.03.27-04.13.42:919][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 716.605 ms (total: 10.1 sec)
+[2026.03.27-04.13.43:084][681]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.13.43:085][681]LogContentValidation: Enabled validators:
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.13.43:085][681]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.13.43:085][681]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-04.14.37:269][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.03.27-04.14.38:102][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.14.38:585][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2026.03.27-04.14.38:643][443]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-04.14.38:644][443]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine2793B13247450B8DD561A7A933A6330A.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-04.14.38:665][443]LogFileHelpers: All files are already saved.
+[2026.03.27-04.14.38:667][443]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.220
+[2026.03.27-04.14.38:742][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 639.035 ms (total: 10.7 sec)
+[2026.03.27-04.14.38:936][443]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.14.38:936][443]LogContentValidation: Enabled validators:
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.14.38:936][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.14.38:936][443]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-04.14.47:677][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.03.27-04.14.48:334][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.14.48:790][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.03.27-04.14.48:844][568]LogSavePackage: Moving output files for package: /Game/sisis_pinball_machine
+[2026.03.27-04.14.48:846][568]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/sisis_pinball_machine81D19AB24E31778143D84D99EE37CCBE.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap'
+[2026.03.27-04.14.48:863][568]LogFileHelpers: All files are already saved.
+[2026.03.27-04.14.48:866][568]LogFileHelpers: Saving map 'sisis_pinball_machine' took 0.199
+[2026.03.27-04.14.48:961][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 626.925 ms (total: 11.3 sec)
+[2026.03.27-04.14.49:117][568]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.14.49:117][568]LogContentValidation: Enabled validators:
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.14.49:117][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.14.49:117][568]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-04.15.04:434][765]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-04.15.04:452][765]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-04.15.04:453][765]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-04.15.04:455][765]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-04.15.04:455][765]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-04.15.04:455][765]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-04.15.04:455][765]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-04.15.04:455][765]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-04.15.04:457][765]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 4.571 ms (total: 893.915 ms)
+[2026.03.27-04.15.04:457][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-04.15.04:459][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-04.15.04:509][765]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-04.15.04:522][765]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 13.402 ms (total: 158.220 ms)
+[2026.03.27-04.15.04:523][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064246s)
+[2026.03.27-04.15.04:523][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.064338s)
+[2026.03.27-04.15.04:607][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.03.27-04.15.04:613][765]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.15.04:618][765]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-04.15.04:618][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.15.04:618][765]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.15.04:618][765]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-04.15.04:635][765]LogWorldPartition: Display: WorldPartition initialize took 17.298 ms (total: 1.68 sec)
+[2026.03.27-04.15.04:635][765]LogPlayLevel: PIE: World Init took: (0.023036s)
+[2026.03.27-04.15.04:637][765]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-04.15.04:638][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-04.15.04:638][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-04.15.04:638][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-04.15.04:638][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-04.15.04:638][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-04.15.04:643][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-04.15.04:697][765]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-04.15.04:699][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-04.15.04:699][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-04.15.04:699][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-04.15.04:701][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.03.27-04.15.04:701][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.03.27-04.15.04:706][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.03.27-04.15.04:706][765]LogInit: FAudioDevice initialized with ID 33.
+[2026.03.27-04.15.04:706][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.03.27-04.15.04:706][765]LogAudio: Display: Audio Device (ID: 33) registered with world 'sisis_pinball_machine'.
+[2026.03.27-04.15.04:706][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.27-04.15.04:716][765]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-04.15.04:721][765]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-21.15.04
+[2026.03.27-04.15.04:723][765]LogWorld: Bringing up level for play took: 0.004980
+[2026.03.27-04.15.04:728][765]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.03.27-04.15.04:733][765]LogStreaming: Display: FlushAsyncLoading(1326,1327,1328,1325,1324): 5 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.15.04:766][765]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 0.0
+[2026.03.27-04.15.04:766][765]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-04.15.04:768][765]PIE: Server logged in
+[2026.03.27-04.15.04:773][765]PIE: Play in editor total start time 0.321 seconds.
+[2026.03.27-04.15.17:741][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.15.17:741][932]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-04.15.17:743][932]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.17:744][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.17:744][932]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.15.17:848][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-04.15.17:863][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.17:917][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.15.17:918][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.27-04.15.17:918][932]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.03.27-04.15.17:924][932]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.03.27-04.15.17:941][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2026.03.27-04.15.18:035][933]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.03.27-04.15.23:230][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.03.27-04.15.23:237][996]LogStreaming: Display: FlushAsyncLoading(1329): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.15.23:423][996]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-04.15.23:427][996]LogAssetEditorSubsystem: Opening Asset editor for World /Game/main_menu.main_menu
+[2026.03.27-04.15.23:427][996]Cmd: MAP LOAD FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/main_menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-04.15.23:555][996]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.23:555][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.23:606][996]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.23:606][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.23:606][996]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.15.23:796][996]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-04.15.23:810][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.03.27-04.15.23:829][996]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.23:829][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.23:912][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.03.27-04.15.23:953][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.27-04.15.23:982][996]LogAudio: Display: Audio Device (ID: 1) registered with world 'main_menu'.
+[2026.03.27-04.15.23:982][996]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-04.15.24:030][996]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-04.15.24:074][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.27-04.15.24:086][996]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-04.15.24:086][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2026.03.27-04.15.24:285][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.27-04.15.25:953][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-04.15.25:965][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-04.15.25:965][ 13]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_menu
+[2026.03.27-04.15.25:968][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2026.03.27-04.15.25:968][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu.main_menu to /Game/UEDPIE_0_main_menu.main_menu (0.001963s)
+[2026.03.27-04.15.26:020][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.27-04.15.26:026][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world main_menu
+[2026.03.27-04.15.26:029][ 13]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2026.03.27-04.15.26:030][ 13]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.03.27-04.15.26:030][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-04.15.26:031][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-04.15.26:031][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-04.15.26:031][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-04.15.26:031][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-04.15.26:031][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-04.15.26:034][ 13]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-04.15.26:076][ 13]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-04.15.26:077][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-04.15.26:077][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-04.15.26:077][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-04.15.26:077][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.03.27-04.15.26:078][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.03.27-04.15.26:081][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.03.27-04.15.26:081][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.03.27-04.15.26:081][ 13]LogInit: FAudioDevice initialized with ID 34.
+[2026.03.27-04.15.26:081][ 13]LogAudio: Display: Audio Device (ID: 34) registered with world 'main_menu'.
+[2026.03.27-04.15.26:081][ 13]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.27-04.15.26:160][ 13]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-04.15.26:161][ 13]LogWorld: Bringing World /Game/UEDPIE_0_main_menu.main_menu up for play (max tick rate 60) at 2026.03.26-21.15.26
+[2026.03.27-04.15.26:161][ 13]LogWorld: Bringing up level for play took: 0.000919
+[2026.03.27-04.15.26:166][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.03.27-04.15.26:170][ 13]PIE: Server logged in
+[2026.03.27-04.15.26:175][ 13]PIE: Play in editor total start time 0.21 seconds.
+[2026.03.27-04.15.29:283][ 39]LogSlate: Window 'bp_pinballgamestate' being destroyed
+[2026.03.27-04.15.29:341][ 39]LogSlate: Window 'bp_pinballgamestate' being destroyed
+[2026.03.27-04.15.29:362][ 39]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.29:362][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.30:495][ 39]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.27-04.15.30:496][ 39]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.30:496][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:011][ 39]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.31:012][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:025][ 39]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.31:025][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:153][ 39]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.31:154][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:164][ 39]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.31:164][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:240][ 39]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.27-04.15.31:240][ 39]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.31:240][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.31:448][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.27-04.15.32:779][ 86]LogBlueprintUserMessages: [wbp_mainmenu_C_0] Game Mode = Scored
+[2026.03.27-04.15.32:783][ 86]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C"
+[2026.03.27-04.15.32:783][ 86]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-04.15.32:783][ 86]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-04.15.32:783][ 86]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_menu
+[2026.03.27-04.15.32:784][ 86]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.15.32:784][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.15.32:910][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-04.15.32:914][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.03.27-04.15.32:919][ 86]LogStreaming: Display: FlushAsyncLoading(1331): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.15.32:992][ 86]LogAudio: Display: Audio Device (ID: 34) registered with world 'sisis_pinball_machine'.
+[2026.03.27-04.15.32:992][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.15.32:996][ 86]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-04.15.32:996][ 86]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.15.32:996][ 86]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.03.27-04.15.32:996][ 86]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-04.15.33:002][ 86]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-04.15.33:004][ 86]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-04.15.33:005][ 86]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-04.15.33:005][ 86]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_plunger 
+[2026.03.27-04.15.33:005][ 86]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_killzone 
+[2026.03.27-04.15.33:005][ 86]MapCheck: Error: World references spatially loaded actor /Game/UEDPIE_0_sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-04.15.33:093][ 86]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 90.474 ms (total: 984.389 ms)
+[2026.03.27-04.15.33:117][ 86]LogWorldPartition: Display: WorldPartition initialize took 122.062 ms (total: 1.80 sec)
+[2026.03.27-04.15.33:117][ 86]LogPlayLevel: PIE: World Init took: (0.125731s)
+[2026.03.27-04.15.33:117][ 86]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-04.15.33:119][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/3Z/R2EN6AIHOAEJG5RP85KDPE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:119][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/9N/ITG07YBRH08ZKMDJQ0CNXD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/8A/QQHE8P10X360Z7Z3LZOLL6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NE/NFU1QYT7HJJNQCNO7BDS7X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/E0/6SE0154FQESNVK9ECY1OSD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/H2/WXHCJLBL2XBOVSHHQL3VTB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/OQ/64IFH2Q8PE7SX3CTG40VB4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/CN/II2J111U3XA44JDDB90S9J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/M3/H649716L4S7Z1828UYHUNN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/O9/X6BTFGOOEYBMDKG46NTCEB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/Z3/I1FJRK5RF1R6V3XK5TW24Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/5/PW/GFDG8OOTISX866O33REGB1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/2L/28EKRRQ4Q6ODNOMAAP79WC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/5A/6L2ZC4MNH3L4ZPK4W3BB6W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/IY/VK4HJP8HD2MNSHP7GHG3W6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/4P/PTICZIB7XVOP6YTONEDS31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/AO/UTM559UH1IRDT8B5DU2O6D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/S9/570APTIW9YK5SWPI2MPG37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/UX/ODSL5N6K1LR8TBB4O37K31.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/JK/C163HZ96BU0GNRK1BE4HBN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/7/OH/5TUDQ2E0DAGJ3QKWN7IOOP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/8/2L/4LJ66JXI8S6G83ZFFL2K97.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/0H/9QYGVFLEMRNQR4EL6750MH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/I9/7XOGYGKF1SHUYY3RE11KLJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/MM/955OC1TJ5VWIPT0VDY26X8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NM/8OXZQPPWVHXTUJ5ZS5HUTD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QE/0I6NLB1NS6OGAW99UY5TLO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/TD/TB78P3P9M87S598TU3PI37.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/EE/0VYH9QRDF74U8BPS5LTO4X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/F9/BJC61673178AE7LBPF7XXH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/EH/SKK0X1Z4L2BIDVJVQ9ZVBE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/Y0/4I1O3Q2XZKMR6C8L5M5XT8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:120][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/GQ/YU8K4S17UPFAN2SQ1HQ9SW.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/4/FH/I277XUG2FTCR1GN6NVNAV4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/S9/RK0BTD3HJ80J1JZS8ROZCK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/SS/GAZ0N4IBACCMYCJKT4R2RA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/YF/Z0PN66GM1GGZM7Y5GUOH5X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/GW/GYLLBJ5BCIK80S0V408CIP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/0/XJ/MTMW5YMG74UA1NWW9W11Z7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/GM/P6R620H222V419CFL2LZVG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QU/F30I3MEYHFVCS838OEHDGI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/P1/AEHUSH0WM5UF4CG9PRNDV1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/1/ZY/5HXTI3YXI9YJR59ROYWB82.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/YR/WVN2GN5CWRMQ4TMF2IJTWC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/2N/DSRT6DKYR6XFHP10XYM2XI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/M4/QX87G78LF520JXGTZSVIA4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/B/13/VPNKHU88DSB7G47GO2PSRM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/7P/U1JML9ADGQZ8QH00793IFX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/2/9Y/7G76FHVWON6DWXIC8AMOVU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/RV/1IPXJVUG7J0TGMNNWQRJNT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:121][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/LQ/SE7T0CJ3WLK7EJIEEZOKL3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/0K/B9HPMR2D3MCQNFYZQ0A26P.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/OA/PXXO06NZ92WOK5MAZ8G9M2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/85/UVMT2IQSWS880DO6ZX2KO4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/L2/3PIFWT7HBRESQ5YC04Z24E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/EY/PHLA3BL19GZ7X3OS19ANQ4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/AI/3FTCKY2G8VUN5H6BROPWJU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/C/II/MOAMXU3848H630W0E47MZ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/WS/K6T5FLD5W416WYJBMEU1R0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/UB/QTXUV446V4BS1D7JQASLD5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/2O/BKK2SL3SPZVPQ99U3Q79YV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/D/XM/LYS5D9UD0S5RAUUK43GQI7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:122][ 86]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/E/Q9/41YTE55JTBO7K5WOP2LHA9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.03.27-04.15.33:137][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 9/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/3Z/R2EN6AIHOAEJG5RP85KDPE) ...
+[2026.03.27-04.15.33:153][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 19/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/3/NE/NFU1QYT7HJJNQCNO7BDS7X) ...
+[2026.03.27-04.15.33:169][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 28/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/6/3E/C9EW5CEGPRCICQX8D1RHZR) ...
+[2026.03.27-04.15.33:185][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 38/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/0H/9QYGVFLEMRNQR4EL6750MH) ...
+[2026.03.27-04.15.33:201][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 46/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/9/QU/F30I3MEYHFVCS838OEHDGI) ...
+[2026.03.27-04.15.33:217][ 86]LogStaticMesh: Display: Waiting for static meshes to be ready 51/64 (/Game/UEDPIE_0_sisis_pinball_machine_InstanceOf_/Game/__ExternalActors__/sisis_pinball_machine/A/YR/WVN2GN5CWRMQ4TMF2IJTWC) ...
+[2026.03.27-04.15.33:243][ 86]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-21.15.33
+[2026.03.27-04.15.33:244][ 86]LogWorld: Bringing up level for play took: 0.010199
+[2026.03.27-04.15.33:244][ 86]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.27-04.15.33:270][ 86]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 0.0
+[2026.03.27-04.15.33:270][ 86]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-04.15.33:271][ 86]LogLoad: Took 0.488878 seconds to LoadMap(/Game/sisis_pinball_machine)
+[2026.03.27-04.15.33:271][ 86]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/sisis_pinball_machine
+[2026.03.27-04.15.44:801][706]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-04.15.46:275][791]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 200.0
+[2026.03.27-04.15.50:701][ 25]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 300.0
+[2026.03.27-04.15.50:992][ 40]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 400.0
+[2026.03.27-04.15.52:198][107]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 500.0
+[2026.03.27-04.16.05:052][535]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 600.0
+[2026.03.27-04.16.05:385][555]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 700.0
+[2026.03.27-04.16.05:468][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.16.05:468][558]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-04.16.05:469][558]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.16.05:469][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.16.05:469][558]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.16.05:471][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-04.16.05:477][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.16.05:508][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.16.05:508][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.27-04.16.05:509][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.03.27-04.16.05:512][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.03.27-04.16.05:522][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.27-04.16.05:548][559]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.03.27-04.16.09:045][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.27-04.16.09:048][758]LogStreaming: Display: FlushAsyncLoading(1411): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.16.09:084][758]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.16.09:085][758]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-04.16.09:085][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.16.09:085][758]LogWorldPartition: UWorldPartition::Initialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.16.09:091][758]LogWorldPartition: Display: WorldPartition initialize took 5.992 ms (total: 1.80 sec)
+[2026.03.27-04.16.09:093][758]LogAssetEditorSubsystem: Opening Asset editor for World /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.16.09:093][758]Cmd: MAP LOAD FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/sisis_pinball_machine.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-04.16.09:115][758]LogWorld: UWorld::CleanupWorld for main_menu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.16.09:115][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.16.09:148][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-04.16.09:150][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.27-04.16.09:153][758]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.16.09:153][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.16.09:153][758]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.16.09:183][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.27-04.16.09:268][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.27-04.16.09:305][758]LogAudio: Display: Audio Device (ID: 1) registered with world 'sisis_pinball_machine'.
+[2026.03.27-04.16.09:305][758]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.16.09:307][758]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-04.16.09:307][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.16.09:307][758]LogWorldPartition: UWorldPartition::Initialize : World = /Game/sisis_pinball_machine.sisis_pinball_machine, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.16.09:317][758]LogWorldPartition: Display: WorldPartition initialize took 9.746 ms (total: 1.81 sec)
+[2026.03.27-04.16.09:362][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-04.16.09:392][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.27-04.16.09:401][758]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-04.16.09:404][758]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-04.16.09:404][758]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-04.16.09:404][758]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-04.16.09:404][758]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-04.16.09:404][758]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-04.16.09:404][758]MapCheck: Map check complete: 5 Error(s), 0 Warning(s), took 2.775ms to complete.
+[2026.03.27-04.16.24:212][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.16.24:260][607]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/sisis_pinball_machine/5/F3/S3VN7EVQJCP0SPJ3Q9Y5YY
+[2026.03.27-04.16.24:260][607]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/S3VN7EVQJCP0SPJ3Q9Y5YYBF1685784BD55519B00523A045DB9D47.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/__ExternalActors__/sisis_pinball_machine/5/F3/S3VN7EVQJCP0SPJ3Q9Y5YY.uasset'
+[2026.03.27-04.16.24:275][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.011 ms (total: 11.4 sec)
+[2026.03.27-04.16.24:323][607]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.16.24:323][607]LogContentValidation: Enabled validators:
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.16.24:323][607]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.16.24:323][607]AssetCheck: /Game/sisis_pinball_machine Validating asset
+[2026.03.27-04.16.26:323][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-04.16.26:329][723]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-04.16.26:329][723]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-04.16.26:331][723]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-04.16.26:331][723]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-04.16.26:331][723]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-04.16.26:331][723]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-04.16.26:331][723]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-04.16.26:331][723]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 1.834 ms (total: 986.224 ms)
+[2026.03.27-04.16.26:331][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-04.16.26:332][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-04.16.26:350][723]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-04.16.26:356][723]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.093 ms (total: 163.313 ms)
+[2026.03.27-04.16.26:356][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024227s)
+[2026.03.27-04.16.26:356][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.024261s)
+[2026.03.27-04.16.26:380][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.27-04.16.26:386][723]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-04.16.26:387][723]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-04.16.26:387][723]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-04.16.26:387][723]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-04.16.26:387][723]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-04.16.26:395][723]LogWorldPartition: Display: WorldPartition initialize took 7.974 ms (total: 1.82 sec)
+[2026.03.27-04.16.26:395][723]LogPlayLevel: PIE: World Init took: (0.009992s)
+[2026.03.27-04.16.26:395][723]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-04.16.26:395][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-04.16.26:395][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-04.16.26:395][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-04.16.26:395][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-04.16.26:395][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-04.16.26:398][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-04.16.26:420][723]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-04.16.26:421][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-04.16.26:421][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-04.16.26:421][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-04.16.26:422][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.03.27-04.16.26:422][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.03.27-04.16.26:425][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.03.27-04.16.26:425][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.03.27-04.16.26:425][723]LogInit: FAudioDevice initialized with ID 35.
+[2026.03.27-04.16.26:425][723]LogAudio: Display: Audio Device (ID: 35) registered with world 'sisis_pinball_machine'.
+[2026.03.27-04.16.26:425][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.03.27-04.16.26:429][723]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-04.16.26:430][723]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-21.16.26
+[2026.03.27-04.16.26:430][723]LogWorld: Bringing up level for play took: 0.001708
+[2026.03.27-04.16.26:433][723]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.03.27-04.16.26:434][723]LogStreaming: Display: FlushAsyncLoading(1507,1508,1509,1506,1505): 5 QueuedPackages, 0 AsyncPackages
+[2026.03.27-04.16.26:446][723]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 0.0
+[2026.03.27-04.16.26:447][723]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-04.16.26:447][723]PIE: Server logged in
+[2026.03.27-04.16.26:449][723]PIE: Play in editor total start time 0.12 seconds.
+[2026.03.27-04.16.30:344][952]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 2
+[2026.03.27-04.16.55:813][479]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 1
+[2026.03.27-04.17.00:947][787]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 0
+[2026.03.27-04.17.00:947][787]LogBlueprintUserMessages: [bp_pinballgamemode_score_C_0] Game Over
+[2026.03.27-04.17.06:788][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.17.06:788][136]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-04.17.06:789][136]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-04.17.06:790][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.17.06:790][136]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-04.17.06:792][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-04.17.06:795][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-04.17.06:825][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-04.17.06:825][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.03.27-04.17.06:825][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.03.27-04.17.06:828][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.03.27-04.17.06:834][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-04.17.06:837][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.27-04.17.06:893][137]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.03.27-04.17.10:774][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_assets/bp_ballspawner.bp_ballspawner
+[2026.03.27-04.17.10:775][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.03.27-04.17.26:808][236]LogEditorTransaction: Undo Delete current selection
+[2026.03.27-04.17.28:112][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7897.573242
+[2026.03.27-04.17.28:249][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-04.17.28:249][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7897.693359, Update Interval: 337.367462
+[2026.03.27-04.17.37:377][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.27-04.17.37:862][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-04.17.37:946][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bp_assets/bp_ballspawner] ([2] browsable assets)...
+[2026.03.27-04.17.37:946][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_assets/bp_ballspawner]
+[2026.03.27-04.17.37:946][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_assets/bp_ballspawner" FILE="../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/bp_assets/bp_ballspawner.uasset" SILENT=true
+[2026.03.27-04.17.37:961][801]LogSavePackage: Moving output files for package: /Game/bp_assets/bp_ballspawner
+[2026.03.27-04.17.37:961][801]LogSavePackage: Moving '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Saved/bp_ballspawner18FA675C4BF9BCB31B9DC5A9FFC659DC.tmp' to '../../../../../../SIMONSEN_Tanaka_unreal_pinball/pinballbaby/Content/bp_assets/bp_ballspawner.uasset'
+[2026.03.27-04.17.37:976][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.741 ms (total: 11.5 sec)
+[2026.03.27-04.17.38:019][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-04.17.38:019][801]LogContentValidation: Enabled validators:
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-04.17.38:019][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-04.17.38:020][801]AssetCheck: /Game/bp_assets/bp_ballspawner Validating asset
