@@ -5087,3 +5087,141 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.03.27-00.51.47:245][346]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/BuildingWorlds/LevelEditor/MapErrors?utm_source=editor&utm_medium=docs&utm_campaign=msg_log#worldpartition_worldreferencespatiallyloadedactor_checkforerrors
 [2026.03.27-00.51.57:533][410]LogSlate: Window 'Message Log' being destroyed
 [2026.03.27-00.51.57:584][410]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-00.55.44:459][735]LogPSOHitching: Encountered 150 PSO creation hitches so far (77 graphics, 73 compute). 0 of them were precached.
+[2026.03.27-00.56.27:907][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8010.402344
+[2026.03.27-00.56.28:913][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-00.56.28:913][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8011.074219, Update Interval: 345.572693
+[2026.03.27-00.56.43:391][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-00.56.43:421][ 76]LogContentBundle: [sisis_pinball_machine(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-00.56.43:421][ 76]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' started...
+[2026.03.27-00.56.43:427][ 76]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_l 
+[2026.03.27-00.56.43:427][ 76]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_flipper_r 
+[2026.03.27-00.56.43:427][ 76]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_plunger 
+[2026.03.27-00.56.43:428][ 76]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_killzone 
+[2026.03.27-00.56.43:428][ 76]MapCheck: Error: World references spatially loaded actor /Game/sisis_pinball_machine.bp_ballspawner 
+[2026.03.27-00.56.43:431][ 76]LogWorldPartition: Display: GenerateStreaming for 'sisis_pinball_machine' took 9.737 ms (total: 309.606 ms)
+[2026.03.27-00.56.43:432][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-00.56.43:435][ 76]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.56.43:533][ 76]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-00.56.43:541][ 76]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.880 ms (total: 333.901 ms)
+[2026.03.27-00.56.43:541][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105548s)
+[2026.03.27-00.56.43:541][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.105931s)
+[2026.03.27-00.56.43:634][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.27-00.56.43:640][ 76]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-00.56.43:643][ 76]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-00.56.43:643][ 76]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-00.56.43:643][ 76]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-00.56.43:643][ 76]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-00.56.43:651][ 76]LogWorldPartition: Display: WorldPartition initialize took 7.625 ms (total: 1.42 sec)
+[2026.03.27-00.56.43:651][ 76]LogPlayLevel: PIE: World Init took: (0.010320s)
+[2026.03.27-00.56.43:652][ 76]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-00.56.43:652][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-00.56.43:652][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-00.56.43:652][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-00.56.43:652][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-00.56.43:652][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-00.56.43:654][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-00.56.43:676][ 76]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.27-00.56.43:676][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-00.56.43:676][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-00.56.43:676][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-00.56.43:679][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.03.27-00.56.43:679][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.03.27-00.56.43:682][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.03.27-00.56.43:682][ 76]LogInit: FAudioDevice initialized with ID 29.
+[2026.03.27-00.56.43:682][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.03.27-00.56.43:682][ 76]LogAudio: Display: Audio Device (ID: 29) registered with world 'sisis_pinball_machine'.
+[2026.03.27-00.56.43:682][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.27-00.56.43:686][ 76]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-00.56.43:688][ 76]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-17.56.43
+[2026.03.27-00.56.43:688][ 76]LogWorld: Bringing up level for play took: 0.002021
+[2026.03.27-00.56.43:692][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.03.27-00.56.43:693][ 76]LogStreaming: Display: FlushAsyncLoading(1371,1370,1368,1369): 4 QueuedPackages, 0 AsyncPackages
+[2026.03.27-00.56.43:704][ 76]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-00.56.43:705][ 76]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-00.56.43:705][ 76]PIE: Server logged in
+[2026.03.27-00.56.43:708][ 76]PIE: Play in editor total start time 0.289 seconds.
+[2026.03.27-00.56.49:773][166]LogBlueprintUserMessages: [sisis_pinball_machine_C_0] Game Mode = Freeplay
+[2026.03.27-00.56.49:836][167]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C"
+[2026.03.27-00.56.49:836][167]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-00.56.49:838][167]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinball_gamemode_freeplay.bp_pinball_gamemode_freeplay_C
+[2026.03.27-00.56.49:838][167]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.56.49:854][167]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-00.56.49:857][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-00.56.49:858][167]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-00.56.49:996][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-00.56.49:999][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.27-00.56.50:003][167]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.56.50:029][167]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-00.56.50:036][167]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.247 ms (total: 340.149 ms)
+[2026.03.27-00.56.50:036][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031947s)
+[2026.03.27-00.56.50:036][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.032029s)
+[2026.03.27-00.56.50:036][167]LogAudio: Display: Audio Device (ID: 29) registered with world 'sisis_pinball_machine'.
+[2026.03.27-00.56.50:036][167]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-00.56.50:038][167]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-00.56.50:038][167]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-00.56.50:038][167]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-00.56.50:038][167]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-00.56.50:046][167]LogWorldPartition: Display: WorldPartition initialize took 8.427 ms (total: 1.43 sec)
+[2026.03.27-00.56.50:046][167]LogPlayLevel: PIE: World Init took: (0.010638s)
+[2026.03.27-00.56.50:046][167]LogLoad: Game class is 'bp_pinball_gamemode_freeplay_C'
+[2026.03.27-00.56.50:048][167]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-17.56.50
+[2026.03.27-00.56.50:048][167]LogWorld: Bringing up level for play took: 0.002058
+[2026.03.27-00.56.50:050][167]LogStreaming: Display: FlushAsyncLoading(1375,1374,1372,1373): 4 QueuedPackages, 0 AsyncPackages
+[2026.03.27-00.56.50:063][167]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-00.56.50:063][167]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-00.56.50:063][167]LogLoad: Took 0.226410 seconds to LoadMap(/Game/UEDPIE_0_sisis_pinball_machine)
+[2026.03.27-00.56.50:063][167]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.57.00:591][374]LogBlueprintUserMessages: [sisis_pinball_machine_C_0] Game Mode = Scored
+[2026.03.27-00.57.00:685][375]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C"
+[2026.03.27-00.57.00:685][375]LogNet: Browse: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-00.57.00:685][375]LogLoad: LoadMap: /Game/sisis_pinball_machine??game=/Game/game_modes/bp_pinballgamemode_score.bp_pinballgamemode_score_C
+[2026.03.27-00.57.00:686][375]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.57.00:689][375]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-00.57.00:690][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-00.57.00:690][375]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-00.57.00:778][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-00.57.00:782][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.27-00.57.00:785][375]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.57.00:809][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-00.57.00:815][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.523 ms (total: 346.672 ms)
+[2026.03.27-00.57.00:816][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030100s)
+[2026.03.27-00.57.00:816][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sisis_pinball_machine.sisis_pinball_machine to /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine (0.030163s)
+[2026.03.27-00.57.00:816][375]LogAudio: Display: Audio Device (ID: 29) registered with world 'sisis_pinball_machine'.
+[2026.03.27-00.57.00:816][375]LogChaosDD: Creating Chaos Debug Draw Scene for world sisis_pinball_machine
+[2026.03.27-00.57.00:818][375]LogWorldPartition: ULevel::OnLevelLoaded(sisis_pinball_machine)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-00.57.00:818][375]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-00.57.00:818][375]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-00.57.00:818][375]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-00.57.00:826][375]LogWorldPartition: Display: WorldPartition initialize took 8.533 ms (total: 1.44 sec)
+[2026.03.27-00.57.00:826][375]LogPlayLevel: PIE: World Init took: (0.010498s)
+[2026.03.27-00.57.00:826][375]LogLoad: Game class is 'bp_pinballgamemode_score_C'
+[2026.03.27-00.57.00:829][375]LogWorld: Bringing World /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine up for play (max tick rate 60) at 2026.03.26-17.57.00
+[2026.03.27-00.57.00:829][375]LogWorld: Bringing up level for play took: 0.002329
+[2026.03.27-00.57.00:831][375]LogStreaming: Display: FlushAsyncLoading(1379,1378,1376,1377): 4 QueuedPackages, 0 AsyncPackages
+[2026.03.27-00.57.00:843][375]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 100.0
+[2026.03.27-00.57.00:843][375]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 3
+[2026.03.27-00.57.00:843][375]LogLoad: Took 0.156920 seconds to LoadMap(/Game/UEDPIE_0_sisis_pinball_machine)
+[2026.03.27-00.57.00:843][375]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.57.06:839][495]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 200.0
+[2026.03.27-00.57.07:328][505]LogBlueprintUserMessages: [bp_pinballgamestate_C_0] 300.0
+[2026.03.27-00.57.10:780][576]Set new viewmode: Wireframe
+[2026.03.27-00.57.13:203][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-00.57.13:203][701]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sisis_pinball_machine
+[2026.03.27-00.57.13:204][701]LogWorld: UWorld::CleanupWorld for sisis_pinball_machine, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-00.57.13:204][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-00.57.13:204][701]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_sisis_pinball_machine.sisis_pinball_machine
+[2026.03.27-00.57.13:215][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-00.57.13:218][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-00.57.13:253][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-00.57.13:253][701]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.27-00.57.13:253][701]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.03.27-00.57.13:257][701]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.03.27-00.57.13:267][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.27-00.57.13:346][702]LogPlayLevel: Display: Destroying online subsystem :Context_52
